@@ -1,0 +1,8 @@
+services:
+  c:
+    build: .
+    volumes:
+      - ./:/app:consistent
+    stdin_open: true
+    tty: true
+    entrypoint: ["sh", "-c", "gcc -o main main.c && ./main"]

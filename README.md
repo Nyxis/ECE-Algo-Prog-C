@@ -1,4 +1,10 @@
-# ECE — Algo & Programmation C (B1)
+# Algo & Programmation C (ECE - B1)
+
+Dépot support aux TP de la promo B1 2026.
+
+ - (Calculatrice)[tp/calculatrice/README.md]
+ - (Rectangle)[tp/rectangle/README.md]
+ - (Moyenne)[tp/moyenne/README.md]
 
 ## Mise en place (une seule fois)
 
@@ -18,9 +24,3 @@
 3. Écrire un message : `TP du JJ/MM`
 4. Cliquer `Commit and Push`
 5. Vérifier que la branche affichée est bien `prenom-nom`, puis Push
-
-## Règles
-
-- Ne jamais push sur `main`
-- Ne jamais push sur la branche d'un autre étudiant
-- Tout push sur une branche qui n'est pas la vôtre sera traité comme du plagiat (RI §4.6c)
