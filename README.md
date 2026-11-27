@@ -2,9 +2,9 @@
 
 Dépot support aux TP de la promo B1 2026.
 
- - (Calculatrice)[tp/calculatrice/README.md]
- - (Rectangle)[tp/rectangle/README.md]
- - (Moyenne)[tp/moyenne/README.md]
+ - [Calculatrice](tp/calculatrice/README.md)
+ - [Rectangle](tp/rectangle/README.md)
+ - [Moyenne](tp/moyenne/README.md)
 
 ## Mise en place (une seule fois)
 
